@@ -1,6 +1,11 @@
-                                                                                    # Hello, I'm Astik! 👋
+<center>
 
-                                            ### I'm a FULL stack developer based in Gwalior. I'm passionate about DSA, and I love building cool stuff with code.
+# Hello, I'm Astik! 👋
+
+### I'm a FULL stack developer based in Gwalior. I'm passionate about DSA, and I love building cool stuff with code.
+
+</center>
+
 
 ## About Me ℹ️
 
