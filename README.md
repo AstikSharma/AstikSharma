@@ -32,7 +32,7 @@ Here are some of the technologies I work with:
 - Frontend: 
   - <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40"/> React.js
   - <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40"/> Material UI
-  - <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F28029%2Ftailwind-css&psig=AOvVaw33qpy25sZryrrCWdPrJlCx&ust=1711423168201000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi4nqK6joUDFQAAAAAdAAAAABAE" alt="Tailwind CSS" width="40"/> Tailwind CSS
+  - <img src="https://courses.javacodegeeks.com/wp-content/uploads/2021/02/3542736_21cf-768x430.jpg" alt="Tailwind CSS" width="40"/> Tailwind CSS
   - <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40"/> Bootstrap
   - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40"/> HTML5
   - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/> CSS3
