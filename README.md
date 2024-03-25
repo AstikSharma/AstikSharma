@@ -1,5 +1,6 @@
+![Hey](https://github.com/AstikSharma/AstikSharma/assets/132981717/e8971129-c9f7-4cad-8ccb-f1f34aee6a30)
 <center>
-![Profile Picture](Hey.png)
+  
 
 # Hello, I'm Astik! 👋
 
