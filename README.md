@@ -1,5 +1,5 @@
 ![Hey](https://github.com/AstikSharma/AstikSharma/assets/132981717/e8971129-c9f7-4cad-8ccb-f1f34aee6a30)
-<div style="text-align:center;">
+<div align="center">
   
 <h1>Hello, I'm Astik! 👋</h1>
 
