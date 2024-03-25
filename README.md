@@ -1,13 +1,11 @@
 ![Hey](https://github.com/AstikSharma/AstikSharma/assets/132981717/e8971129-c9f7-4cad-8ccb-f1f34aee6a30)
-<center>
+<div style="text-align:center;">
   
-
 # Hello, I'm Astik! 👋
 
 ### I'm a FULL stack developer based in Gwalior. I'm passionate about DSA, and I love building cool stuff with code.
 
-</center>
-
+</div>
 
 ## About Me ℹ️
 
