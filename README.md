@@ -1,4 +1,7 @@
-![Hey](https://github.com/AstikSharma/AstikSharma/assets/132981717/e8971129-c9f7-4cad-8ccb-f1f34aee6a30)
+
+![Hey! I am Astik](https://github.com/AstikSharma/AstikSharma/assets/132981717/efeb2b4b-f6d5-4506-97cf-56714f5e5c75)
+
+
 <div align="center">
   
 <h1>Hello, I'm Astik! 👋</h1>
