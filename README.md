@@ -1,6 +1,4 @@
-
 ![Hey! I am Astik](https://github.com/AstikSharma/AstikSharma/assets/132981717/efeb2b4b-f6d5-4506-97cf-56714f5e5c75)
-
 
 <div align="center">
   
@@ -24,19 +22,19 @@
 Here are some of the technologies I work with:
 
 - Programming Languages: 
-  - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/> 
+  - <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="60"/> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="60"/> <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="60"/> <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="60"/> 
 
 - Frontend: 
-  - <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40"/> <img src="https://courses.javacodegeeks.com/wp-content/uploads/2021/02/3542736_21cf-768x430.jpg" alt="Tailwind CSS" width="40"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
+  - <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" width="60"/> <img src="https://img.icons8.com/color/96/000000/material-ui.png" alt="Material UI" width="60"/> <img src="https://courses.javacodegeeks.com/wp-content/uploads/2021/02/3542736_21cf-768x430.jpg" alt="Tailwind CSS" width="60"/> <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" width="60"/> <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" width="60"/> <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="60"/>
     
 - Backend: 
-  - <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/> <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40"/>
+  - <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="60"/> <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" width="60"/>
     
 - Databases: 
-  - <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40"/>
+  - <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="60"/> <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" alt="MySQL" width="60"/>
 
 - Tools: 
-  - <img src="https://img.icons8.com/fluent/48/000000/figma.png" alt="Figma" width="40"/> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40"/>
+  - <img src="https://img.icons8.com/fluent/96/000000/figma.png" alt="Figma" width="60"/> <img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="60"/> <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="60"/> <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="GitHub" width="60"/>
 
 
 ## Let's Connect 🤝
